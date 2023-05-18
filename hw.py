@@ -1,2 +1,2 @@
 print("Hello World!")
-print("String_two")
+print("String")
